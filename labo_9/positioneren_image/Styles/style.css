@@ -1,0 +1,33 @@
+article
+{
+    border-style: solid;
+    border-color: black ;
+    border-width: 1px;
+    font-size: 1.25em;
+    margin: 5px 10px 5px 10px;
+    display: inline-block;
+}
+
+body
+{
+    width: 30%;
+}
+
+article img
+{
+    margin: 10px;
+}
+
+p > img
+{
+    float: left;
+}
+
+article:nth-child(2n) p > img
+{
+    float: right;
+}
+
+
+
+
