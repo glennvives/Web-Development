@@ -1,0 +1,28 @@
+img
+{
+    position: absolute;
+}
+
+#arch
+{
+    top: calc(11% - 1px);
+    left: calc(8% - 1px);
+}
+
+#tech
+{
+    top: calc(87% - 1px);
+    left: calc(86% - 1px);
+}
+
+#animals
+{
+    top: calc(11% - 1px);
+    left: calc(86% - 1px);
+}
+
+#nature
+{
+    top: calc(87% - 1px);
+    left: calc(8% - 1px);
+}
